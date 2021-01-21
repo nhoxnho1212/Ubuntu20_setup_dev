@@ -87,9 +87,10 @@ Powerlevel9k Zsh theme
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
 
-Then edit `~/.zshrc` configuration file and set:
+Then edit `~/.zshrc` configuration file and set (Comment old default theme):
 
 ```shell
+# ZSH_THEME="robbyrussell"
 ZSH_THEME="powerlevel9k/powerlevel9k"
 ```
 
